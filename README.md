@@ -1,2 +1,4 @@
 # database-management-system
-DBMS Projects and Labs
+# DBMS Projects and Labs
+Learning Git Hands with DBS
+
